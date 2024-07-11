@@ -5,3 +5,40 @@ Hometravel is a platform connects tourists with the owners of homestays, allowin
 Link deploy: https://hometravel-owner.vercel.app/
 <br />
 Account test: owner@gmail.com - 123456789
+
+
+### Screenshot
+
+<div align="center">
+   
+      <img src="https://github.com/tien-dat-doit/Hometravel/blob/master/images-review/dashboard.png" style="
+         width: 75%;
+         display: block;
+         margin: 0 auto;">
+         <br />
+
+          <img src="https://github.com/tien-dat-doit/Hometravel/blob/master/images-review/list.png" style="
+         width: 75%;
+         display: block;
+         margin: 0 auto;">
+         <br />
+
+          <img src="https://github.com/tien-dat-doit/Hometravel/blob/master/images-review/create.png" style="
+         width: 75%;
+         display: block;
+         margin: 0 auto;">
+         <br />
+
+          <img src="https://github.com/tien-dat-doit/Hometravel/blob/master/images-review/booking.png" style="
+         width: 75%;
+         display: block;
+         margin: 0 auto;">
+         <br />
+
+          <img src="https://github.com/tien-dat-doit/Hometravel/blob/master/images-review/Calendar.png" style="
+         width: 75%;
+         display: block;
+         margin: 0 auto;">
+         <br />
+   
+</div>
